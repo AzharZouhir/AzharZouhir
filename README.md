@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzharZouhir
+- 👋 Hi, I’m Ahmed Zouhir
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me azhar.zouhir.team@gmail.com
