@@ -1,47 +1,47 @@
 # 👋 Hi, I'm Azhar Zouhir
 
 ### 🏗️ Senior Software Engineer | Founder of [BYTEDz](https://github.com/bytedz)
-With over **5 years of experience** in the software industry, I specialize in building high-performance cross-platform applications and secure remote management systems. I am the lead architect behind the **BYTEDz** ecosystem.
+With **5 years of experience**, I architect cross-platform applications and secure remote management systems. I lead the development at **BYTEDz**, focusing on bridging the gap between mobile and desktop environments.
 
 ---
 
 ### 🚀 Key Projects & Impact
 
-- **[PCLink](https://github.com/bytedz/PCLink)**: Architected a modular, secure remote desktop solution using Flutter and Python. It features a custom extension system and a lightweight WebUI for universal access.
-- **BYTEDz Ecosystem**: Leading the development of open-source tools focused on automation, productivity, and cross-platform utility.
-- **Mobile & Desktop**: 5+ years of experience shipping production-ready apps to the Google Play Store and desktop environments.
+- **[PCLink](https://github.com/bytedz/PCLink)**: A professional-grade, modular remote desktop solution built with Flutter and Python. 
+- **BYTEDz Ecosystem**: An organization dedicated to building open-source tools, extensions, and high-performance utilities.
+- **Production Experience**: 5+ years of delivering production-ready software to the Google Play Store and desktop platforms.
 
 ---
 
-### 🧰 Technical Expertise
+### 🧰 Technical Stack
 
+**Core Expertise (Advanced)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,fastapi,git,docker,linux,postgres,bash" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,js,git,vscode" />
   </a>
 </p>
 
-- **Frontend**: Flutter (Mobile/Desktop/Web), Dart, UI/UX Design.
-- **Backend**: Python (FastAPI, Flask), Node.js, RESTful APIs.
-- **Infrastructure**: Docker, Linux System Administration, CI/CD.
-- **Architecture**: Remote Control Protocols, Modular System Design, API Integration.
+**Tools & Infrastructure (Familiar)**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postgres,bash,linux,postman,githubactions" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Engineering Stats
-
-<p align="left">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AzharZouhir&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
-</p>
-
-<p align="left">
-  <!-- GitHub Overall Stats (Using Stable Mirror) -->
+  <!-- Personal Contribution Stats -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AzharZouhir&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" width="400" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=AzharZouhir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
+
+<p align="left">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AzharZouhir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="755" />
+</p>
+
+> *Note: Top language stats are pulled from @bytedz where my primary open-source development occurs.*
 
 ---
 
